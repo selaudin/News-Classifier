@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="045df549-d126-48a6-be80-c1dda7bd91f0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JupyterTrust" id="3e3472e4-39df-4fd6-857e-55b3ffa4c909" />
+  <component name="ProjectId" id="1UQswsTHCno00de88OCAEmTKLQH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.app (1)">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Latest-News-Classifier-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Latest-News-Classifier-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Latest-News-Classifier-master/0. Latest News Classifier/10. App Creation v2/dash-app-latnewclas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Latest-News-Classifier-master/0. Latest News Classifier/10. App Creation v2/dash-app-latnewclas/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Latest-News-Classifier-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Latest-News-Classifier-master/0. Latest News Classifier/06. App Creation/dash-app-lnclass" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Latest-News-Classifier-master/0. Latest News Classifier/06. App Creation/dash-app-lnclass/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app (1)" />
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="045df549-d126-48a6-be80-c1dda7bd91f0" name="Default Changelist" comment="" />
+      <created>1575300394520</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575300394520</updated>
+      <workItem from="1576532643381" duration="3650000" />
+      <workItem from="1576536499021" duration="9748000" />
+      <workItem from="1576586877057" duration="5990000" />
+      <workItem from="1576624591279" duration="3104000" />
+      <workItem from="1576631182086" duration="4965000" />
+      <workItem from="1576677911265" duration="8217000" />
+      <workItem from="1577266263666" duration="4990000" />
+      <workItem from="1577271808165" duration="5891000" />
+      <workItem from="1579685469740" duration="496000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="66" key="#app" timestamp="1576533062736">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="496" y="66" key="#app/0.40.1536.824@0.40.1536.824" timestamp="1576533062736" />
+    <state x="524" y="254" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576680303836">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="524" y="254" key="#com.intellij.fileTypes.FileTypeChooser/0.40.1536.824@0.40.1536.824" timestamp="1576680303836" />
+    <state x="525" y="195" key="FileChooserDialogImpl" timestamp="1577271244928">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="525" y="195" key="FileChooserDialogImpl/0.40.1536.824@0.40.1536.824" timestamp="1577271244928" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1576711574967">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.40.1536.824@0.40.1536.824" timestamp="1576711574967" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1576711574967">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.40.1536.824@0.40.1536.824" timestamp="1576711574967" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1576711574967">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.40.1536.824@0.40.1536.824" timestamp="1576711574967" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1576711574967">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.40.1536.824@0.40.1536.824" timestamp="1576711574967" />
+    <state x="277" y="94" key="SettingsEditor" timestamp="1576627686418">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="277" y="94" key="SettingsEditor/0.40.1536.824@0.40.1536.824" timestamp="1576627686418" />
+    <state x="465" y="275" key="com.intellij.ide.util.TipDialog" timestamp="1576677912324">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="465" y="275" key="com.intellij.ide.util.TipDialog/0.40.1536.824@0.40.1536.824" timestamp="1576677912324" />
+    <state x="431" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1576535649284">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="431" y="185" width="672" height="678" key="search.everywhere.popup/0.40.1536.824@0.40.1536.824" timestamp="1576535649284" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Latest_News_Classifier_master$app.coverage" NAME="app Coverage Results" MODIFIED="1576677995051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Latest-News-Classifier-master/0. Latest News Classifier/06. App Creation/dash-app-lnclass" />
+  </component>
+</project>

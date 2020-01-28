@@ -1,0 +1,5 @@
+.idea/
+*.py[cod]
+*.log
+src/.mypy_cache/
+.env
