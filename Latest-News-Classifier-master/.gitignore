@@ -1,5 +1,2 @@
 .idea/
-*.py[cod]
-*.log
-src/.mypy_cache/
-.env
+0. Latest News Classifier/00. Raw dataset
