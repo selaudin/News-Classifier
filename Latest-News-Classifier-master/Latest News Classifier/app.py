@@ -453,10 +453,8 @@ Please enter which newspapers would you like to scrape news off and press the **
 
 markdown_text2 = '''
 
- Created by Miguel Fernández Zafra. Visit my webpage at [mfz.es](https://www.mfz.es/) and the [github repo](https://github.com/miguelfzafra/Latest-News-Classifier).
+ Created by Selaudin Agolli, Enes Alili, Abdulla Bakija, Lenart Ibraimi and Bedir Caushi
  
- *Disclaimer: this app is not under periodic maintenance. A live web-scraping process is carried out every time you run the app, so there may be some crashes due to the failing status of some requests.*
-
 '''
 
 
